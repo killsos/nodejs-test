@@ -1,0 +1,23 @@
+{
+  "name": "2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killsos/nodejs-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killsos/nodejs-test/issues"
+  },
+  "homepage": "https://github.com/killsos/nodejs-test#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-static": "^1.2.5"
+  }
+}
